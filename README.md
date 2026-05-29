@@ -64,8 +64,8 @@ This case study includes:
 ## Tools Used
 
 * Draw.io
-* Figma
-* Microsoft PowerPoint
+* Visio
+* Balsamiq
 * Microsoft Word
 * Agile Framework (Scrum Principles)
 
