@@ -1,0 +1,2 @@
+# Healthcare-Recipe-Management-Platform-End-to-End-Business-Analysis-Case-Study.
+Designed a healthcare-focused recipe platform for an IBD non-profit organisation. Applied Business Analysis techniques including stakeholder analysis, requirements gathering, process mapping, user stories, backlog prioritisation, acceptance criteria, wireframing, and MVP planning to improve user engagement and content governance.
